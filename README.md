@@ -5,20 +5,35 @@ Seeking a vacant parking space during peak hours in areas like Hospitals, Hotels
 
 # Proposed System
 Proposed  system  is  an IOT  basedsystem  which  will  allow users/drivers  to  find  parking  at any given time.
+
 •Available parking can be seen by the users•Total free parking can be see by the user.
+
 •Parking available counter will be reduced by one as soon as car enters parking lot.
+
 •Parking available counter will be increasedby one as soon as car leavesparking lot.
+
 •Parking slot light will turn green if that slot is available to show that it is vacant.
+
 •Parking slot light will turn red if that slot isnot available to show that it is not vacant.
+
 •Entry/Exit  gates  will  be  blocked  by  barricade  which  will  open  automatically  when  a  car comes near them
 
 # Hardware Requirement: 
 --Laptop or PC: 
+
 -1.I5Processor Based Computer or higher
+
 2.2GB RAM
+
 3.10GB Hard Disk
+
 4.Esp8266
+
 5.Ledlights.
+
 6.Infrared sensors.
+
 7.Ultrasonic sensors.
+
 8.Servo Motors
+
