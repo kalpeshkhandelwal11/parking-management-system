@@ -37,3 +37,6 @@ Proposed  system  is  an IOT  basedsystem  which  will  allow users/drivers  to 
 
 8.Servo Motors
 
+# additionaly
+View the project report in this repo . or follow this : https://circuitdigest.com/microcontroller-projects/iot-based-smart-parking-system-using-nodemcu
+
